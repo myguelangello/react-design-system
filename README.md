@@ -1,4 +1,3 @@
 ## 💻 Projeto
 
-Esse projeto tem o intuito de mostrar como é possível documentar os seus componentes 
-React TS estilizados com Tailwind CSS usando Storybook e assim desenvolver um Design System consistente para seus projetos.
+This project aims to show how it is possible to document your React components styled with Tailwind CSS using Storybook and thus develop a consistent Design System for your projects.
